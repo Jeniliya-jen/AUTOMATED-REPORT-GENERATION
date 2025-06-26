@@ -30,6 +30,7 @@ The CSV file used in this project simulates lending activity in a programming-th
 - **Date Borrowed**: The date when the book was borrowed.
 - **Date Returned**: The date when the book was returned (if returned).
 - **Status**: Current status of the book (Returned or Borrowed).
+
 This structured format allows to create informative tables and summaries in the report.
 
 ## Tools & Libraries Used:
