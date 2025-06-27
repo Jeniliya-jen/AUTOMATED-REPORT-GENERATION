@@ -52,13 +52,15 @@ It is created using the Python fpdf library and includes neatly formatted tables
    - Date Returned: The return date, or a dash if the book is still borrowed.
    - Status: Either Returned or Borrowed.
 
-  The table is formatted with borders, aligned cells, and light-colored headers for better readability.
+The table is formatted with borders, aligned cells, and light-colored headers for better readability.
+  
 3. **Summary Section**: After the table, the report includes a summary section that provides quick statistical insights:
    - Total Books Tracked: Number of entries in the CSV.
    - Books Returned: Count of books with status Returned.
    - Books Still Borrowed: Count of books with status Borrowed.
     
   This section is helpful for instantly understanding the lending activity without manually scanning the data.
+  
 4. **Footer**: At the end of the report, a footer message is included, **"Note: This report was automatically generated for monitoring library book lending activity."**
   This communicates that the report is produced by a system and helps reinforce the professionalism and consistency of the document.
 
