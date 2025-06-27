@@ -43,6 +43,34 @@ This structured format allows to create informative tables and summaries in the 
 This project automatically generates a clean, professional, and informative PDF report from a CSV file. The resulting file is called:
 It is created using the Python fpdf library and includes neatly formatted tables, summaries, and report metadata without any manual effort. The report is suitable for academic, library, or internal documentation purposes.
 **Report Features**:
+1. *Report Title & Timestamp*: The top section of the PDF displays a bold and centered title, **"Library Book Lending Report"**. Immediately below the title, the report shows the timestamp when the report was generated. This adds credibility and helps track the freshness of the data
+2. *Lending Data Table*: The core of the report is a tabular representation of the lending records. It displays the following columns for each book:
+- Book ID: Unique identifier of the book.
+- Title: Name of the book.
+- Borrower: Name of the person who borrowed the book.
+- Date Borrowed: The borrowing date.
+- Date Returned: The return date, or a dash if the book is still borrowed.
+- Status: Either Returned or Borrowed.
+
+  The table is formatted with borders, aligned cells, and light-colored headers for better readability.
+3. *Summary Section*: After the table, the report includes a summary section that provides quick statistical insights:
+  - Total Books Tracked: Number of entries in the CSV.
+  - Books Returned: Count of books with status Returned.
+  - Books Still Borrowed: Count of books with status Borrowed.
+    
+  This section is helpful for instantly understanding the lending activity without manually scanning the data.
+4. *Footer*: At the end of the report, a footer message is included, **"Note: This report was automatically generated for monitoring library book lending activity."**
+  This communicates that the report is produced by a system and helps reinforce the professionalism and consistency of the document.
+
+## Conclusion:
+This task was a rewarding experience in automating documentation with Python. It enhanced my understanding of how data can be turned into useful, presentable information through code. I’m grateful to CodTech IT Solutions for assigning such a practical and industry-relevant problem. It encouraged hands-on learning and helped solidify my confidence in Python scripting for data handling and reporting.
+
+
+
+
+
+
+
 
 
 
