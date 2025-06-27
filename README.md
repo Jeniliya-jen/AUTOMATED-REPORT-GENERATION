@@ -72,6 +72,8 @@ It is created using the Python fpdf library and includes neatly formatted tables
 ## Conclusion:
 This task was a rewarding experience in automating documentation with Python. It enhanced my understanding of how data can be turned into useful, presentable information through code. I’m grateful to **CodTech IT Solutions** for assigning such a practical and industry-relevant problem. It encouraged hands-on learning and helped solidify my **confidence in Python scripting** for **data handling** and **reporting**.
 
+#  Automatically Generated Report Output:
+![Image](https://github.com/user-attachments/assets/19efff1e-eeee-4856-91cc-2efb4798e8bc)
 
 
 
