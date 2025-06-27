@@ -15,6 +15,8 @@
 # AUTOMATED-REPORT-GENERATION - Codtech Internship Task 2
 This project is part of Task 1 for the CodTech Python Internship. This project demonstrates how to create an automated PDF report using Python and the FPDF library. The goal of the task is to read structured data from a CSV file, analyze it, and generate a well-formatted and professional-looking PDF report without manual effort. For this task, we chose a real-world use case — a Library Book Lending Report that summarizes borrowing activity in a fictional programming library.
 
+*"Note: GitHub renders the CSV file as a table preview, but it is a standard CSV file used as input for the script."*
+
 ## Project Overview
 Task 2 focuses on building an automated system in Python to read structured data from a CSV file and generate a clean, professional PDF report. For this task, a fictional **Library Book Lending Report system** was created using a dataset of programming-themed books. The Python script uses pandas to analyze book borrowing records—such as borrower's name, date borrowed, date returned, and current status—and then uses the fpdf library to produce a formatted, printable report. The final PDF includes a title, timestamp, lending data table, summary statistics, and a closing note—all automatically generated without manual intervention.
 
