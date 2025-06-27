@@ -17,9 +17,8 @@ This project is part of Task 1 for the CodTech Python Internship. This project d
 
 ## About the csv file:
 The Library_Lending_Data.csv file used in this project is a **Comma-Separated Values (CSV) file**. Each row in the file represents a record of a book lending transaction, and the values in each row are separated by commas.
+
 *"Note: GitHub renders the CSV file as a table preview, but it is a standard CSV file used as input for the script."*
-This is the csv file (screenshot).
-![Image](https://github.com/user-attachments/assets/9bbc5711-13ff-48a8-9023-5e79ca51d592)
 
 ## Project Overview
 Task 2 focuses on building an automated system in Python to read structured data from a CSV file and generate a clean, professional PDF report. For this task, a fictional **Library Book Lending Report system** was created using a dataset of programming-themed books. The Python script uses pandas to analyze book borrowing records—such as borrower's name, date borrowed, date returned, and current status—and then uses the fpdf library to produce a formatted, printable report. The final PDF includes a title, timestamp, lending data table, summary statistics, and a closing note—all automatically generated without manual intervention.
