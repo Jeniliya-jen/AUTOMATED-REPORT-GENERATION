@@ -16,7 +16,7 @@
 This project is part of Task 1 for the CodTech Python Internship. This project demonstrates how to create an automated PDF report using Python and the FPDF library. The goal of the task is to read structured data from a CSV file, analyze it, and generate a well-formatted and professional-looking PDF report without manual effort. For this task, we chose a real-world use case — a Library Book Lending Report that summarizes borrowing activity in a fictional programming library.
 
 ## About the csv file:
-The Library_Lending_Data.csv file used in this project is a **Comma-Separated Values (CSV) file**. Each row in the file represents a record of a book lending transaction, and the values in each row are separated by commas.  The comma separators, are essential for the python script to correctly read and analyze the data.
+The Library_Lending_Data.csv file used in this project is a **Comma-Separated Values (CSV) file**. Each row in the file represents a record of a book lending transaction, and the values in each row are separated by commas. The comma separators, are essential for the python script to correctly read and analyze the data. While the file is originally stored in CSV format with commas, GitHub automatically renders it as a table for easier viewing on the platform. This is only a visual change; the underlying file format remains unchanged.
 
 *"Note: GitHub renders the CSV file as a table preview, but it is a standard CSV file used as input for the script."*
 
