@@ -1,0 +1,16 @@
+Book ID,Title,Borrower,Date Borrowed,Date Returned,Status
+B001,Mastering Python for AI,Person 1,2025-06-06,2025-06-10,Returned
+B002,Learn JavaScript Quickly,Person 2,2025-06-08,,Borrowed
+B003,The Study about Java,Person 3,2025-06-10,2025-06-18,Returned
+B004,Clean Coding,Person 4,2025-06-12,,Borrowed
+B005,The Machine learning guide,Person 5,2025-06-13,2025-06-16,Returned
+B006,Coding with Python,Person 6,2025-06-15,,Borrowed
+B007,Data Structures in detail,Person 7,2025-06-09,2025-06-17,Returned
+B008,Introduction to Algorithms,Person 8,2025-06-16,,Borrowed
+B009,Learning c,Person 9,2025-06-16,2025-06-20,Returned
+B010,C Fundamentals,Person 10,2025-06-11,,Borrowed
+B011,Data Visualization with Matplotlib,Person 11,2025-06-07,2025-06-12,Returned
+B012,HTML & CSS Legends,Person 12,2025-06-08,,Borrowed
+B013,Effective Java,Person 13,2025-06-09,2025-06-14,Returned
+B014,GitHub Adventures,Person 14,2025-06-10,,Borrowed
+B015,Cloud Code Mysteries,Person 15,2025-06-09,2025-06-16,Returned
