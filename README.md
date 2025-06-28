@@ -66,8 +66,11 @@ It is created using the Python fpdf library and includes neatly formatted tables
     
    This section is helpful for instantly understanding the lending activity without manually scanning the data.
   
-4. **Footer**: At the end of the report, a footer message is included, **"Note: This report was automatically generated for monitoring library book lending activity."**
-  This communicates that the report is produced by a system and helps reinforce the professionalism and consistency of the document.
+4. **Footer**: At the end of the report, a footer message is included,
+
+   **"Note: This report was automatically generated for monitoring library book lending activity."**
+
+   This communicates that the report is produced by a system and helps reinforce the professionalism and consistency of the document.
 
 ## Conclusion:
 This task was a rewarding experience in automating documentation with Python. It enhanced my understanding of how data can be turned into useful, presentable information through code. I’m grateful to **CodTech IT Solutions** for assigning such a practical and industry-relevant problem. It encouraged hands-on learning and helped solidify my **confidence in Python scripting** for **data handling** and **reporting**.
